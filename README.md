@@ -1,12 +1,6 @@
 ------
 1元100g机场性价比机场推荐：https://xn--6nq44r2uh9rhj7f.com/#/reg...
 
-00:00 项目介绍
-00:38 开始搭建
-03:00 无域名的v2ray配置
-05:14 有域名的v2ray配置（可选）
-
-
 项目地址：https://github.com/zizifn/edgetunnel
 cloudflare注册：https://dash.cloudflare.com/login
 
