@@ -9,7 +9,8 @@ js文件：
 https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js
 
 UUID在线生成 https://1024tools.com/uuid
-提供的一个proxyIP: 103.200.112.108
+提供的一个proxyIP: 103.200.112.108,104.27.200.69
+
 
 如果上面那个ip用不了了，可以用下面这几个域名：
 cdn-all.xn--b6gac.eu.org
